@@ -1,3 +1,5 @@
-# learning-shell
-
-# learn bash shell
+# learn shell scripting 
+topic :
+......
+1-
+2-
