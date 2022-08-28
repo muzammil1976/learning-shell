@@ -6,5 +6,5 @@
 
 echo HELLO World
 
-print multiple lines (print a new line)
+# print multiple lines (print a new line)
 echo Hello, How are you doing today, Good day
