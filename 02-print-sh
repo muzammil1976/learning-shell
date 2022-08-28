@@ -32,4 +32,4 @@ echo -e "a\tb"
 # CYAN         36          \e[36m
 
 echo -e "\e31mHello in RED color\e[0m"
-ECHO "Hello in normal text color"
+echo "Hello in normal text color"
