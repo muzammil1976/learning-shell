@@ -1,2 +1,2 @@
-echo install payment  component
+echo install rabbitmq  component
 
