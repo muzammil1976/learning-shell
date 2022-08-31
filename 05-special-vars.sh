@@ -1,2 +1,2 @@
-echo install cart component
+echo install frontend component
 
