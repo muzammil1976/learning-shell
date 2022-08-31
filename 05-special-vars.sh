@@ -1,7 +1,2 @@
-#!/bin/bash
+echo install catalogue component
 
-echo Script Name = $0
-echo First Input =$1
-echo Second Input =$2
-echo All Inputs = $*
-echo number of inouts = $#
