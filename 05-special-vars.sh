@@ -1,2 +1,2 @@
-echo install redis component
+echo install shipping component
 
