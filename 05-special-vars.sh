@@ -1,2 +1,2 @@
-echo install frontend component
+echo install mongodb component
 
