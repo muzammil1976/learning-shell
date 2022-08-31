@@ -1,2 +1,2 @@
-echo install mysql component
+echo install payment  component
 
