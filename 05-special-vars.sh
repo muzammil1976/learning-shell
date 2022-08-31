@@ -1,2 +1,2 @@
-echo install rabbitmq  component
+echo install redis component
 
