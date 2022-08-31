@@ -1,2 +1,2 @@
-echo install catalogue component
+echo install cart component
 
