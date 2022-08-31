@@ -1,2 +1,2 @@
-echo install mongodb component
+echo install mysql component
 
