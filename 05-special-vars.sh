@@ -1,2 +1,2 @@
-echo install shipping component
+echo install user component
 
