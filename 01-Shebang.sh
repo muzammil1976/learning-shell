@@ -1,3 +1,5 @@
 #!/usr/bin/bash
- is
- cat /etc/passwd
+
+ls
+exit
+echo helllo
