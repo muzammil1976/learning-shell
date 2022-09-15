@@ -2,7 +2,7 @@
 
 # Declare a function
 abc() {
-  echo ABc Function
+  echo ABC Function
 }
 
 # Decklare another function
