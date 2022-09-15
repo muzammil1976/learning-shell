@@ -12,7 +12,7 @@ function xyz() {
   echo XYZ function
 }
 
-= Main program
+# Main program
 a=10
 ## Access the function
 abc
